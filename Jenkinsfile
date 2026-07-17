@@ -1,7 +1,7 @@
 node {
 
     stage('Checkout') {
-        git 'https://github.com/bhavya-moulya/bhavya-maven-webapp.git'
+        git branch: 'main', url: 'https://github.com/bhavya-moulya/bhavya-maven-webapp.git'
     }
 
     stage('Build') {
