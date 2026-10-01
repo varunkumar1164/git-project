@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Bhavya DevOps CI/CD Project</title>
+    <title>Varun's DevOps CI/CD Project</title>
     <style>
         body{
             background:#f4f7fc;
@@ -28,7 +28,7 @@
 <body>
 
 <div class="container">
-    <h1>Welcome to Bhavya's DevOps CI/CD Project</h1>
+    <h1>Welcome to Varun's DevOps CI/CD Project</h1>
 
     <h2>Application Successfully Deployed on Apache Tomcat 10</h2>
 
@@ -38,13 +38,13 @@
 
     <p>GitHub → Jenkins → Maven → Tomcat</p>
 
-    <p><b>Application Name:</b> Bhavya Maven WebApp</p>
+    <p><b>Application Name:</b> Varun Maven WebApp</p>
 
     <p><b>Version:</b> 1.0</p>
 
     <p><b>Environment:</b> Production</p>
 
-    <p><b>Created By:</b> Bhavya Hassan</p>
+    <p><b>Created By:</b> VARUNKUMAR </p>
 
     <h2 style="color:green;">Deployment Successful</h2>
 </div>
